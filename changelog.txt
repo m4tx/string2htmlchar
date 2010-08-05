@@ -1,0 +1,2 @@
+Wersja 1.0 (06-082010)
+- Pierwsza oficjalna wersja.
